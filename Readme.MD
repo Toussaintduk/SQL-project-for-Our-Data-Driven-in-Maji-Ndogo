@@ -1,7 +1,9 @@
 # Maji Ndogo Clean Water Access Project
 
 ## Overview
-This repository hosts the project undertaken by [ExploreAi Academy](https://www.explore.ai/) to improve clean water access in Maji Ndogo. The project utilizes SQL (MySQL) for data management and insights, focusing on gathering data related to locations, employees, visits, water sources, well pollution, and progress tracking for well repairs.
+This repository hosts the project undertaken by [ExploreAi Academy](https://www.explore.ai/) to improve clean water access in Maji Ndogo.
+and this project is extensive survey of asset - a database of 60,000 records, meticulously collected by our devoted team of engineers, field workers, scientists, and analysts.
+The project utilizes SQL (MySQL) for data management and insights, focusing on gathering data related to locations, employees, visits, water sources, well pollution, and progress tracking for well repairs.
 
 ## Requirements
 To run this project locally, ensure you have the following installed:
@@ -25,3 +27,6 @@ To run this project locally, ensure you have the following installed:
 
 ## Contributions
 Contributions are welcome! Please fork the repository, create a new branch for your changes, and submit 
+
+## Contact
+For questions or feedback, please contact Dukundimana Toussaint at toussaintduk02@gmail.com
