@@ -29,4 +29,4 @@ To run this project locally, ensure you have the following installed:
 Contributions are welcome! Please fork the repository, create a new branch for your changes, and submit 
 
 ## Contact
-For questions or feedback, please contact Dukundimana Toussaint at toussaintduk02@gmail.com
+For questions or feedback, please contact  via toussaintduk02@gmail.com
